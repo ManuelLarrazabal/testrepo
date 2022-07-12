@@ -1,2 +1,2 @@
 # testrepo
-Siguiendo curso de coursera
+Siguiendo el curso de coursera
